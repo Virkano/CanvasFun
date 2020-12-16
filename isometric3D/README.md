@@ -2,7 +2,7 @@
 <!-- Edit the generate-folder-readmes.js file instead -->
 # isometric3D
 
-[Live Demo](https://virkano.github.io/CanvasFun/isometric3D)
+[Live Demo](https://www.virkano.github.io/CanvasFun/isometric3D)
 
 -------
 

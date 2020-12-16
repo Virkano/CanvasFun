@@ -1,6 +1,6 @@
 # SnowFlake
 
-[Live Demo](https://virkano.github.io/CanvasFun/SnowFlake)
+[Live Demo](https://www.virkano.github.io/CanvasFun/SnowFlake)
 
 ![ParticleShift](../thumbnails/snowflake_400x400-min.png)
 

@@ -1,6 +1,6 @@
 # 7SegmentDisplay
 
-[Live Demo](https://virkano.github.io/CanvasFun/sevenSegmentDisplay/)
+[Live Demo](https://www.virkano.github.io/CanvasFun/sevenSegmentDisplay/)
 
 ![ParticleShift](../thumbnails/7segment_400x400-min.png)
 

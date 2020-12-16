@@ -2,7 +2,7 @@
 <!-- Edit the generate-folder-readmes.js file instead -->
 # infiniteTriangles
 
-[Live Demo](https://virkano.github.io/CanvasFun/infiniteTriangles)
+[Live Demo](https://www.virkano.github.io/CanvasFun/infiniteTriangles)
 
 -------
 
