@@ -2,7 +2,7 @@
 <!-- Edit the generate-folder-readmes.js file instead -->
 # depthCircles
 
-[Live Demo](https://anuraghazra.github.io/CanvasFun/depthCircles)
+[Live Demo](https://virkano.github.io/CanvasFun/depthCircles)
 
 -------
 

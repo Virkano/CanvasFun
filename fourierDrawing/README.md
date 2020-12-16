@@ -2,7 +2,7 @@
 <!-- Edit the generate-folder-readmes.js file instead -->
 # fourierDrawing
 
-[Live Demo](https://anuraghazra.github.io/CanvasFun/fourierDrawing)
+[Live Demo](https://virkano.github.io/CanvasFun/fourierDrawing)
 
 -------
 

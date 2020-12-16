@@ -1,6 +1,6 @@
 # ParticleShift
 
-[Live Demo](https://anuraghazra.github.io/CanvasFun/particleShift/)
+[Live Demo](https://virkano.github.io/CanvasFun/particleShift/)
 
 ![ParticleShift](../thumbnails/particleshift_400x400-min.png)
 

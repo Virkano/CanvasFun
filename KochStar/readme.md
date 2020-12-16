@@ -1,6 +1,6 @@
 # KochStar
 
-[Live Demo](https://anuraghazra.github.io/CanvasFun/KochStar)
+[Live Demo](https://virkano.github.io/CanvasFun/KochStar)
 
 ![Koch Star](../thumbnails/kochStar_400x400-min.png)
 

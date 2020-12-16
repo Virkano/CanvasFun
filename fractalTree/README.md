@@ -2,7 +2,7 @@
 <!-- Edit the generate-folder-readmes.js file instead -->
 # fractalTree
 
-[Live Demo](https://anuraghazra.github.io/CanvasFun/fractalTree)
+[Live Demo](https://virkano.github.io/CanvasFun/fractalTree)
 
 -------
 

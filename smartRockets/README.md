@@ -2,7 +2,7 @@
 <!-- Edit the generate-folder-readmes.js file instead -->
 # smartRockets
 
-[Live Demo](https://anuraghazra.github.io/CanvasFun/smartRockets)
+[Live Demo](https://virkano.github.io/CanvasFun/smartRockets)
 
 -------
 

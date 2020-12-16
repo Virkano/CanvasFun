@@ -2,8 +2,8 @@
 <!-- Edit the generate-folder-readmes.js file instead -->
 # 10PrintLine
 
-[Live Demo](https://anuraghazra.github.io/CanvasFun/10PrintLine)
+[Live Demo](https://virkano.github.io/CanvasFun/10PrintLine)
 
 -------
 
-Made with :heart:
+Made with :heart:   

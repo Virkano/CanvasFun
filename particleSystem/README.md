@@ -2,7 +2,7 @@
 <!-- Edit the generate-folder-readmes.js file instead -->
 # particleSystem
 
-[Live Demo](https://anuraghazra.github.io/CanvasFun/particleSystem)
+[Live Demo](https://virkano.github.io/CanvasFun/particleSystem)
 
 -------
 

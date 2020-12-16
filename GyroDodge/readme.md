@@ -6,10 +6,7 @@ simple gyroscopic mobile game.
 
 Can you beat the game?
 
+[Live Demo](https://virkano.github.io/CanvasFun/HexaDraw)
 
-
-### Author
-- hazru.anurag@gmail.com
-- https://anuraghazra.github.io
 
 made with :heart: and Javascript

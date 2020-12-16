@@ -9,7 +9,7 @@ c.createScreenBuffer('osc');
 let osc = c.screenBuffers.osc;
 
 window.onload = function () {
-  let url = 'https://anuraghazra.github.io/CanvasFun/TextParticles/src/images/mypic.jpg';
+  let url = 'https://avatars2.githubusercontent.com/u/73920733?s=460&u=793663f1374b9a530847e4a229a9d3119a442628&v=4';
 
   let mouse = new Vector(0, 0);
 

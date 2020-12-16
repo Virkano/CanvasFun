@@ -2,7 +2,7 @@
 <!-- Edit the generate-folder-readmes.js file instead -->
 # fourierSeries
 
-[Live Demo](https://anuraghazra.github.io/CanvasFun/fourierSeries)
+[Live Demo](https://virkano.github.io/CanvasFun/fourierSeries)
 
 -------
 
