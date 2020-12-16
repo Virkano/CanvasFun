@@ -1,0 +1,41 @@
+name: Generate Readme
+
+on:
+  push:
+    branches:    
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: setup node
+      uses: actions/setup-node@v1
+      with:
+        node-version: "10.x"
+
+    - name: npm install, generate readme
+      run: |
+        npm ci
+        npm run readme-gen
+        npm run subdir-readme-gen
+      env:
+        CI: true
+
+    - name: Run Script
+      uses: skx/github-action-tester@master
+      with:
+        script: ./push.sh
+      env:
+        CI: true
+        PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+        GH_REPO: ${{ secrets.GH_REPO }}
+
+    # - name: npm install, generate readme
+    #   run: ./push.sh
+    #   env:
+    #     CI: true
+    #     PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+    #     GH_REPO: ${{ secrets.GH_REPO }}
