@@ -2,7 +2,7 @@
 <!-- Edit the generate-folder-readmes.js file instead -->
 # phyllotaxis
 
-[Live Demo](https://www.virkano.github.io/CanvasFun/phyllotaxis)
+[Live Demo](https://virkano.github.io/CanvasFun/phyllotaxis/)
 
 -------
 

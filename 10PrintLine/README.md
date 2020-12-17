@@ -2,7 +2,7 @@
 <!-- Edit the generate-folder-readmes.js file instead -->
 # 10PrintLine
 
-[Live Demo](https://www.virkano.github.io/CanvasFun/10PrintLine)
+[Live Demo](https://virkano.github.io/CanvasFun/10PrintLine/)
 
 -------
 

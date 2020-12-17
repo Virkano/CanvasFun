@@ -2,7 +2,7 @@
 <!-- Edit the generate-folder-readmes.js file instead -->
 # TextParticles
 
-[Live Demo](https://www.virkano.github.io/CanvasFun/TextParticles)
+[Live Demo](https://virkano.github.io/CanvasFun/TextParticles/)
 
 -------
 

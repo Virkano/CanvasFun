@@ -2,7 +2,7 @@
 <!-- Edit the generate-folder-readmes.js file instead -->
 # ChaosGame
 
-[Live Demo](https://www.virkano.github.io/CanvasFun/ChaosGame)
+[Live Demo](https://virkano.github.io/CanvasFun/ChaosGame/)
 
 -------
 

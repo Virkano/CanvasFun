@@ -2,7 +2,7 @@
 <!-- Edit the generate-folder-readmes.js file instead -->
 # NeonLoadingBar
 
-[Live Demo](https://www.virkano.github.io/CanvasFun/NeonLoadingBar)
+[Live Demo](https://virkano.github.io/CanvasFun/NeonLoadingBar/)
 
 -------
 

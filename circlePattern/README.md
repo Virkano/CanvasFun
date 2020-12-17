@@ -2,7 +2,7 @@
 <!-- Edit the generate-folder-readmes.js file instead -->
 # circlePattern
 
-[Live Demo](https://www.virkano.github.io/CanvasFun/circlePattern)
+[Live Demo](https://virkano.github.io/CanvasFun/circlePattern/)
 
 -------
 

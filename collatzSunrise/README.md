@@ -2,7 +2,7 @@
 <!-- Edit the generate-folder-readmes.js file instead -->
 # collatzSunrise
 
-[Live Demo](https://www.virkano.com/CanvasFun/collatzSunrise/)
+[Live Demo](https://virkano.com/CanvasFun/collatzSunrise/)
 
 -------
 

@@ -2,7 +2,7 @@
 <!-- Edit the generate-folder-readmes.js file instead -->
 # fireworks
 
-[Live Demo](https://www.virkano.github.io/CanvasFun/fireworks)
+[Live Demo](https://virkano.github.io/CanvasFun/fireworks/)
 
 -------
 
