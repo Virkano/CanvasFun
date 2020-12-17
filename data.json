@@ -6,6 +6,16 @@
     "img" : "https://virkano.github.io/CanvasFun/thumbnails/collatzsunrise_400x400-min.png"
   },
   {
+    "title" : "10PrintLine",
+    "demo" : "https://virkano.github.io/CanvasFun/10PrintLine",
+    "src" : "https://github.com/virkano/CanvasFun/tree/master/10PrintLine",
+    "img" : "https://virkano.github.io/CanvasFun/thumbnails/10printline_400x400-min.png"
+  },
+
+
+
+
+  {
     "title" : "Slime",
     "demo" : "https://virkano.github.io/Slime/",
     "src" : "https://github.com/virkano/Slime",
@@ -17,12 +27,7 @@
     "src" : "https://github.com/virkano/parasites",
     "img" : "https://virkano.github.io/CanvasFun/thumbnails/parasites_400x400-min.png"
   },
-  {
-    "title" : "10PrintLine",
-    "demo" : "https://virkano.github.io/CanvasFun/10PrintLine",
-    "src" : "https://github.com/virkano/CanvasFun/tree/master/10PrintLine",
-    "img" : "https://virkano.github.io/CanvasFun/thumbnails/10printline_400x400-min.png"
-  },
+  
   {
     "title" : "ChaosGame",
     "demo" : "https://virkano.github.io/CanvasFun/ChaosGame",
