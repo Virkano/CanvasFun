@@ -25,30 +25,6 @@
     "img" : "https://virkano.github.io/CanvasFun/thumbnails/circlepattern-min.png"
   },
   {
-    "title" : "isometric3D",
-    "demo" : "https://virkano.github.io/CanvasFun/isometric3D/",
-    "src" : "https://github.com/virkano/CanvasFun/tree/main/isometric3D",
-    "img" : "https://www.virkano.com/CanvasFun/thumbnails/isometric3d_400x400-min.png"
-  },
-  {
-    "title" : "phyllotaxis",
-    "demo" : "https://virkano.github.io/CanvasFun/phyllotaxis/",
-    "src" : "https://github.com/virkano/CanvasFun/tree/main/phyllotaxis",
-    "img" : "https://www.virkano.com/CanvasFun/thumbnails/phyllotaxis_400x400-min.png"
-  },
-  {
-    "title" : "snowFlake",
-    "demo" : "https://virkano.github.io/CanvasFun/snowFlake/",
-    "src" : "https://github.com/virkano/CanvasFun/tree/main/snowFlake",
-    "img" : "https://www.virkano.com/CanvasFun/thumbnails/snowflake_400x400-min.png"
-  },
-  {
-    "title" : "KochStar",
-    "demo" : "https://virkano.github.io/CanvasFun/KochStar/",
-    "src" : "https://github.com/virkano/CanvasFun/tree/main/KochStar",
-    "img" : "https://www.virkano.com/CanvasFun/thumbnails/kochStar_400x400-min.png"
-  },
-  {
     "title" : "Fireworks",
     "demo" : "https://virkano.github.io/CanvasFun/fireworks/",
     "src" : "https://github.com/virkano/CanvasFun/tree/main/fireworks",
