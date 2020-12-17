@@ -7,93 +7,93 @@
   },
   {
     "title" : "10PrintLine",
-    "demo" : "https://virkano.github.io/CanvasFun/10PrintLine",
+    "demo" : "https://virkano.github.io/CanvasFun/10PrintLine/",
     "src" : "https://github.com/virkano/CanvasFun/tree/main/10PrintLine",
     "img" : "https://virkano.github.io/CanvasFun/thumbnails/10printline_400x400-min.png"
   },
   
   {
     "title" : "ChaosGame",
-    "demo" : "https://virkano.github.io/CanvasFun/ChaosGame",
+    "demo" : "https://virkano.github.io/CanvasFun/ChaosGame/",
     "src" : "https://github.com/virkano/CanvasFun/tree/main/ChaosGame",
     "img" : "https://virkano.github.io/CanvasFun/thumbnails/chaosgame_400x400-min.png"
   },
   {
     "title" : "CirclePattern",
-    "demo" : "https://virkano.github.io/CanvasFun/circlePattern",
+    "demo" : "https://virkano.github.io/CanvasFun/circlePattern/",
     "src" : "https://github.com/virkano/CanvasFun/tree/main/circlePattern",
     "img" : "https://virkano.github.io/CanvasFun/thumbnails/circlepattern-min.png"
   },
   {
     "title" : "Fireworks",
-    "demo" : "https://virkano.github.io/CanvasFun/fireworks",
+    "demo" : "https://virkano.github.io/CanvasFun/fireworks/",
     "src" : "https://github.com/virkano/CanvasFun/tree/main/fireworks",
     "img" : "https://virkano.github.io/CanvasFun/thumbnails/fireworks_400x400-min.png"
   },
   
   {
     "title" : "FractalTree",
-    "demo" : "https://virkano.github.io/CanvasFun/fractalTree",
+    "demo" : "https://virkano.github.io/CanvasFun/fractalTree/",
     "src" : "https://github.com/virkano/CanvasFun/tree/main/fractalTree",
     "img" : "https://virkano.github.io/CanvasFun/thumbnails/frataltree_400x400-min.png"
   },
   {
     "title" : "Isometric3D",
-    "demo" : "https://virkano.github.io/CanvasFun/isometric3D",
+    "demo" : "https://virkano.github.io/CanvasFun/isometric3D/",
     "src" : "https://github.com/virkano/CanvasFun/tree/main/isometric3D",
     "img" : "https://virkano.github.io/CanvasFun/thumbnails/isometric3d_400x400-min.png"
   },
   {
     "title" : "particleShift",
-    "demo" : "https://virkano.github.io/CanvasFun/particleShift",
+    "demo" : "https://virkano.github.io/CanvasFun/particleShift/",
     "src" : "https://github.com/virkano/CanvasFun/tree/main/particleShift",
     "img" : "https://virkano.github.io/CanvasFun/thumbnails/particleshift_400x400-min.png"
   },
   {
     "title" : "particleSystem",
-    "demo" : "https://virkano.github.io/CanvasFun/particleSystem",
+    "demo" : "https://virkano.github.io/CanvasFun/particleSystem/",
     "src" : "https://github.com/virkano/CanvasFun/tree/main/particleSystem",
     "img" : "https://virkano.github.io/CanvasFun/thumbnails/particlesystem_400x400-min.png"
   },
   {
     "title" : "phyllotaxis",
-    "demo" : "https://virkano.github.io/CanvasFun/phyllotaxis",
+    "demo" : "https://virkano.github.io/CanvasFun/phyllotaxis/",
     "src" : "https://github.com/virkano/CanvasFun/tree/main/phyllotaxis",
     "img" : "https://virkano.github.io/CanvasFun/thumbnails/phyllotaxis_400x400-min.png"
   },
   {
     "title" : "smartRockets",
-    "demo" : "https://virkano.github.io/CanvasFun/smartRockets",
+    "demo" : "https://virkano.github.io/CanvasFun/smartRockets/",
     "src" : "https://github.com/virkano/CanvasFun/tree/main/smartRockets",
     "img" : "https://virkano.github.io/CanvasFun/thumbnails/smartrockets400x400-min.png"
   },
   {
     "title" : "snowFlake",
-    "demo" : "https://virkano.github.io/CanvasFun/snowFlake",
+    "demo" : "https://virkano.github.io/CanvasFun/snowFlake/",
     "src" : "https://github.com/virkano/CanvasFun/tree/main/snowFlake",
     "img" : "https://virkano.github.io/CanvasFun/thumbnails/snowflake_400x400-min.png"
   },
   {
     "title" : "KochStar",
-    "demo" : "https://virkano.github.io/CanvasFun/KochStar",
+    "demo" : "https://virkano.github.io/CanvasFun/KochStar/",
     "src" : "https://github.com/virkano/CanvasFun/tree/main/KochStar",
     "img" : "https://virkano.github.io/CanvasFun/thumbnails/kochStar_400x400-min.png"
   },
   {
     "title" : "TextParticles",
-    "demo" : "https://virkano.github.io/CanvasFun/TextParticles",
+    "demo" : "https://virkano.github.io/CanvasFun/TextParticles/",
     "src" : "https://github.com/virkano/CanvasFun/tree/main/TextParticles",
     "img" : "https://virkano.github.io/CanvasFun/thumbnails/imageParticle_400x400-min.png"
   },
   {
     "title" : "7SegmentDisplay",
-    "demo" : "https://virkano.github.io/CanvasFun/sevenSegmentDisplay",
+    "demo" : "https://virkano.github.io/CanvasFun/sevenSegmentDisplay/",
     "src" : "https://github.com/virkano/CanvasFun/tree/main/sevenSegmentDisplay",
     "img" : "https://virkano.github.io/CanvasFun/thumbnails/7segment_400x400-min.png"
   },
   {
     "title" : "InfiniteTriangles",
-    "demo" : "https://virkano.github.io/CanvasFun/infiniteTriangles",
+    "demo" : "https://virkano.github.io/CanvasFun/infiniteTriangles/",
     "src" : "https://github.com/virkano/CanvasFun/tree/main/infiniteTriangles",
     "img" : "https://virkano.github.io/CanvasFun/thumbnails/infinitetrig_400x400-min.png"
   }
