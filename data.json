@@ -1,5 +1,11 @@
 [
   {
+    "title" : "TextParticles",
+    "demo" : "https://www.virkano.com/CanvasFun/TextParticles/",
+    "src" : "https://github.com/virkano/CanvasFun/tree/main/TextParticles",
+    "img" : "https://www.virkano.com/CanvasFun/thumbnails/imageParticle_400x400-min.png"
+  },
+  {
     "title" : "collatzSunrise",
     "demo" : "https://www.virkano.com/CanvasFun/collatzSunrise/",
     "src" : "https://github.com/virkano/CanvasFun/tree/main/collatzSunrise",
@@ -78,12 +84,6 @@
     "demo" : "https://www.virkano.com/CanvasFun/KochStar/",
     "src" : "https://github.com/virkano/CanvasFun/tree/main/KochStar",
     "img" : "https://www.virkano.com/CanvasFun/thumbnails/kochStar_400x400-min.png"
-  },
-  {
-    "title" : "TextParticles",
-    "demo" : "https://www.virkano.com/CanvasFun/TextParticles/",
-    "src" : "https://github.com/virkano/CanvasFun/tree/main/TextParticles",
-    "img" : "https://www.virkano.com/CanvasFun/thumbnails/imageParticle_400x400-min.png"
   },
   {
     "title" : "7SegmentDisplay",
